@@ -42,12 +42,12 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Technical Arsenal
 
-* **Languages:** `C++` | ✨ `JavaScript` | 🐍 `Python` | 🌐 `HTML/CSS`
-* **🖥️ Frontend:** `React.js` | `SolidJS` | `Next.js` | `TailwindCSS` | `Redux` | `React-Query` | `React-Flow` | `React Native` | `Android SDK` | `WebSockets` | `Webpack` | `Vite` | `React-hook-form` | `Zustand` | `MobX` | `Jest` | `React-Testing-Library`
-* **⚙️ Backend:** `Node.js` | `Express` | `REST APIs` | `GraphQL`
-* **☁️ DevOps & Tools:** `Kubernetes` | `GitHub Actions` | `CI/CD` | `SonarCloud` | `Sentry` | `Corologix`
+* **Languages:** `C++` ➕ | `JavaScript` ✨ | `Python` 🐍 | `HTML/CSS` 🎨
+* **🖥️ Frontend Craft:** `React.js` ⚛️ | `SolidJS` แข็ง | `Next.js` ➡️ | `TailwindCSS` 🍃 | `Redux` 🩸 | `React-Query` 🧠 | `React-Flow` 🌐 | `React Native` 📱 | `Android SDK` 💚 | `WebSockets` 📡 | `Webpack` 🏗️ | `Vite` 🚀 | `React-hook-form` 📋 | `Zustand` 🧊 | `MobX` 🌀 | `Jest` 🤡 | `React-Testing-Library` 🧪
+* **⚙️ Backend Engine:** `Node.js` 🌳 | `Express` 🏎️ | `REST APIs` 🤝 | `GraphQL` 🌌
+* **☁️ DevOps & Toolbelt:** `Kubernetes` 🚢 | `GitHub Actions` 🤖 | `CI/CD` 🔄 | `SonarCloud` 🔭 | `Sentry` 🚨 | `Corologix` 📊
 
 ---
 
