@@ -10,8 +10,11 @@
 
 ## 🚀 Experience
 
+### **LevelAI** | Senior Software Engineer
+*Feb 2026 - Present | Noida, India*
+
 ### **Razorpay** | Frontend Engineer (Payments Team)
-*May 2024 - Present | Bengaluru, India*
+*May 2024 - Feb 2026 | Bengaluru, India*
 * Developed UI for multiple merchant onboarding verification steps.
 * Implemented server-driven UI with React-Query and Zod validation.
 * Leading re-architecture of Case Management Automation to server-driven UI.
